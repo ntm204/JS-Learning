@@ -1,3 +1,11 @@
+/*
+  Biến trong JavaScript
+  - Biến là nơi lưu trữ dữ liệu trong chương trình.
+  - Biến có thể thay đổi giá trị trong quá trình thực thi.
+  - Biến được khai báo bằng từ khóa var, let, hoặc const.
+*/
+
+
 // var - Cũ, không nền dùng
 var a = 10;
 var a = 20;         // Có thể khai báo lại trong cùng phạm vi - không nên
