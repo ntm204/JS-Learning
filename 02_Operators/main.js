@@ -1,8 +1,16 @@
 /*
   Toán tử trong JavaScript – Tổng quan
-  Các nhóm chính: số học, gán, so sánh, logic, chuỗi, điều kiện, kiểu
+  Các nhóm chính:
+    1. Toán tử số học (Arithmetic)
+    2. Toán tử gán (Assignment)
+    3. Toán tử so sánh (Comparison)
+    4. Toán tử logic (Logical)
+    5. Toán tử chuỗi (String)
+    6. Toán tử điều kiện (Ternary)
+    7. typeof – kiểm tra kiểu dữ liệu
+    8. instanceof – kiểm tra kiểu đối tượng
+    9. Toán tử khác (Bitwise, Nullish Coalescing, Optional Chaining, etc.)
 */
-
 
 // 1. Toán tử số học (Arithmetic)
 let x = 10;
